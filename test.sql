@@ -1,3 +1,3 @@
 CREATE TABLE test (
-  id int
-  );
+    id int
+);
