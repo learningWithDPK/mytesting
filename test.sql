@@ -1,2 +1,3 @@
-create table test {
-  id int}
+CREATE TABLE test (
+    id int
+);
