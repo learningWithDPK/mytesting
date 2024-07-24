@@ -1,0 +1,12 @@
+# .super-linter.yml
+run_all_linters: true
+
+# Enable or disable specific linters
+disable:
+  - TEXT
+  - MARKDOWN
+
+# Specify file path exclusions
+ignore:
+  - "**/docs/**"
+  - "**/README.md"
